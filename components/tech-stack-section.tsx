@@ -36,7 +36,7 @@ export default function TechStackSection({ isVisible }: TechStackSectionProps) {
           ))}
         </div>
 
-        <p className="text-sm text-gray-500">toolsnya serius. niatnya santai.</p>
+        <p className="text-sm text-gray-500">toolsnya sih serius. niatnya santai. kerjainnya butuh 1 botol bir.</p>
       </div>
     </section>
   )

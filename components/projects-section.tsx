@@ -7,21 +7,21 @@ const projects = [
     name: "Personal Website",
     description:
       "versi diri saya yang paling jinak di internet.\ndibikin biar kalau disuruh kirim portfolio, nggak panik.\nisinya serius dikit, sisanya pura-pura rapi.",
-    status: "✅ online tapi gapernah di update",
+    status: "✅ web idup si tapi mager mau update",
     href: "https://yaelahgas.my.id",
     linkText: "yaelahgas.my.id",
   },
   {
     name: "Monitoring Tracker",
     description:
-      "dashboard buat mantau hal-hal yang katanya sih penting.\ngrafik jalan terus biar keliatan sehat, padahal alert baru bunyi pas semua orang panik.\ndibikin biar nggak cuma buka-buka tab dan nebak-nebak.",
+      "dashboard buat mantau hal-hal yang katanya sih penting.\ngrafik jalan terus biar keliatan pro, padahal mah pusing juga kwakwawkakwakwa.",
     status: "🧪 jalan terus, sampe nabrak",
   },
   {
     name: "Ticket Tracker",
     description:
       "alat bertahan hidup customer service.\nisinya tiket 'waiting on customer', SLA sama KPI yang bikin deg-degan, dan follow up ke-3 yang masih di-read doang.\ndibikin biar nggak cuma ngandelin dashboard bawaan dan ingatan manusia.",
-    status: "🚧 nunggu user reply sejak entah kapan",
+    status: "🚧 idup si, kayaknya",
   },
   {
     name: "Random API",

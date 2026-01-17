@@ -14,7 +14,7 @@ export default function FooterSection() {
   return (
     <footer className="border-t border-gray-800 py-12 px-4">
       <div className="max-w-6xl mx-auto text-center space-y-2">
-        <p className="text-gray-400">dibikin sambil nunggu user reply.</p>
+        <p className="text-gray-400">entah ini apa, iseng aja pusing kepala.</p>
         <div className="relative">
           <span
             className="cursor-pointer inline-block"
@@ -27,7 +27,7 @@ export default function FooterSection() {
             onClick={handleClick}
             onKeyDown={(e) => e.key === "Enter" && handleClick()}
           >
-            <p className="text-sm text-gray-600">© yaudahgas.dev — Rizky Bagas</p>
+            <p className="text-sm text-gray-600">© yaudahgas.dev</p>
             {showTooltip && (
               <span className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 px-3 py-1 bg-gray-700 text-gray-100 text-xs whitespace-nowrap rounded opacity-100 transition-opacity pointer-events-none">
                 jangan di klik plisssssss

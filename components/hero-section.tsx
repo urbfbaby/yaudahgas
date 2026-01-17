@@ -14,7 +14,7 @@ export default function HeroSection() {
 
         {/* Updated subtext */}
         <p className="text-lg sm:text-xl text-gray-400 mb-12 leading-relaxed max-w-xl mx-auto">
-          kalau nemu error, berarti nemu jati diri.
+          kalau nemu error, berarti emang error hehe.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
@@ -25,7 +25,7 @@ export default function HeroSection() {
             liat yang kebetulan jadi
           </button>
           <a
-            href="https://github.com"
+            href="https://github.com/urbfbaby"
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-3 bg-white text-black hover:bg-gray-200 transition-colors duration-200 font-medium"

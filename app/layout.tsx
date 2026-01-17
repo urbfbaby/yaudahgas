@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "yaudahgas.dev — nyari apa lu? | Rizky Bagas",
+  title: "yaudahgas",
   description:
     "Personal playground dan portfolio santai milik Rizky Bagas. Isinya project yang kebetulan jadi: monitoring, ticket tracker, dan eksperimen iseng.",
   openGraph: {
